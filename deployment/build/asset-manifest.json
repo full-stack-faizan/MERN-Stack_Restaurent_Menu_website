@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grocery-To-Do-App/static/css/main.a93743df.css",
+    "main.js": "/Grocery-To-Do-App/static/js/main.c02d9b5c.js",
+    "static/js/787.88008f41.chunk.js": "/Grocery-To-Do-App/static/js/787.88008f41.chunk.js",
+    "index.html": "/Grocery-To-Do-App/index.html",
+    "main.a93743df.css.map": "/Grocery-To-Do-App/static/css/main.a93743df.css.map",
+    "main.c02d9b5c.js.map": "/Grocery-To-Do-App/static/js/main.c02d9b5c.js.map",
+    "787.88008f41.chunk.js.map": "/Grocery-To-Do-App/static/js/787.88008f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93743df.css",
+    "static/js/main.c02d9b5c.js"
+  ]
+}
