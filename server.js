@@ -22,7 +22,7 @@ app.get('/*', (req, res) => {
     res.sendFile(path.resolve(__dirname, 'frontend', 'build', 'index.html'));
 });
 
-// console.log(path.resolve(__dirname, 'frontend', 'build', 'index.html'))
+
 
 app.listen(port, ()=>{
     console.log(`express is successful http://localhost:4000/data/show`)
