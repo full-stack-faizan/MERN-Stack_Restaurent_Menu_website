@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/demorepo2/static/css/main.a93743df.css",
+    "main.js": "/demorepo2/static/js/main.78fadb64.js",
+    "static/js/787.88008f41.chunk.js": "/demorepo2/static/js/787.88008f41.chunk.js",
+    "index.html": "/demorepo2/index.html",
+    "main.a93743df.css.map": "/demorepo2/static/css/main.a93743df.css.map",
+    "main.78fadb64.js.map": "/demorepo2/static/js/main.78fadb64.js.map",
+    "787.88008f41.chunk.js.map": "/demorepo2/static/js/787.88008f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93743df.css",
+    "static/js/main.78fadb64.js"
+  ]
+}
